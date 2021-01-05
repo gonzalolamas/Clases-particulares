@@ -6,7 +6,7 @@ Es un proyecto realizado para emprendimiento de un amigo, el cual brinda ayuda e
 
 **¿Dónde puedo ver la página?**
 
-La página está alojada en Github.io, se encuentra disponible desde el siguiente [link](http://https://gonzalolamas.github.io/Proyecto-integrador-Potrero-Digital-Clases-particulares/ "link"). 
+La página está alojada en Github.io, se encuentra disponible desde el siguiente [link](https://gonzalolamas.github.io/Proyecto-integrador-Potrero-Digital-Clases-particulares/ "link"). 
 
 **¿Es un proyecto que puede tener mayor desarrollo?**
 
